@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raj Pateriya</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from Bharat</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/fotos-premium/mascote-de-programador-de-computador-para-uma-arte-de-linha-de-logotipo-de-empresa-generative-ai_934475-5808.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpateriya&label=Profile%20views&color=0e75b6&style=flat" alt="rajpateriya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajpateriya" alt="rajpateriya" /></a> </p>
+- 🌱 I’m currently learning **DSA ,React JS & Nodejs**
 
-- 🌱 I’m currently learning **React JS , Nodejs**
-
-- 💬 Ask me about **Node js**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **pateriyaraj52@gmail.com**
 
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajpateriya&show_icons=true&locale=en" alt="rajpateriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajpateriya&" alt="rajpateriya" /></p>
+
