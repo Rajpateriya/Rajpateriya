@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raj Pateriya</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/fotos-premium/mascote-de-programador-de-computador-para-uma-arte-de-linha-de-logotipo-de-empresa-generative-ai_934475-5808.jpg?w=1380>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpateriya&label=Profile%20views&color=0e75b6&style=flat" alt="rajpateriya" /> </p>
 
