@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA ,React JS & Nodejs**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA & Nodejs**
 
 - 📫 How to reach me **pateriyaraj52@gmail.com**
 
