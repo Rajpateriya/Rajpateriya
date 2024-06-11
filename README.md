@@ -1,11 +1,11 @@
 ![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">👋 Hey there, fellow code adventurer!🚀 I'm Raj Pateriya 😎</h1>
-<h3 align="center">A passionate MERN stack developer from Bharat</h3>
+<h3 align="center">A passionate MERN stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/fotos-premium/mascote-de-programador-de-computador-para-uma-arte-de-linha-de-logotipo-de-empresa-generative-ai_934475-5808.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpateriya&label=Profile%20views&color=0e75b6&style=flat" alt="rajpateriya" /> </p>
 
-- 🌱 I’m currently learning **DSA ,React JS & Nodejs**
+- 🌱 I’m currently learning **DSA , Nodejs & React JS**
 
 - 💬 Ask me about **DSA & Nodejs**
 
