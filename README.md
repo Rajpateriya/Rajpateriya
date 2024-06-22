@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pateriyaraj52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17KJ3dJTm5fZ1FjOlMjvxQIbVmPeOWvXG/view?usp=sharing](https://drive.google.com/file/d/17KJ3dJTm5fZ1FjOlMjvxQIbVmPeOWvXG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing](https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
