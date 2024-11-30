@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpateriya&label=Profile%20views&color=0e75b6&style=flat" alt="rajpateriya" /> </p>
 
-- 🌱 I’m currently learning **DSA , Nodejs & React JS**
+- 🌱 I’m currently learning **DSA , Nodejs**
 
 - 💬 Ask me about **DSA & Nodejs**
 
 - 📫 How to reach me **pateriyaraj52@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing](https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing](https://drive.google.com/file/d/1GBZG-RQZTMOPIMKTPgAJ8v3jCcfXa4mM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
