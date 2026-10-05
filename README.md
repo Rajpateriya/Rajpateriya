@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **DSA & Nodejs**
 
-- 📫 How to reach me **pateriyaraj52@gmail.com**
+- 📫 How to reach me **pateriyaraj52@gmail.com** 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_EBNePVINIozEqNPe4bXH2E9FqbiPckj/view?usp=sharing](https://drive.google.com/file/d/1GBZG-RQZTMOPIMKTPgAJ8v3jCcfXa4mM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gZrr_C6LdXfaVUJke3o6ZyrskDPnT_ls/view](https://drive.google.com/file/d/1gZrr_C6LdXfaVUJke3o6ZyrskDPnT_ls/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
